@@ -1,3 +1,3 @@
 print("hello world")
-print("hi")
+print("fox")
 print("linoy balfur")
